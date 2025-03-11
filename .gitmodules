@@ -1,12 +1,10 @@
 [submodule "submodules/cv-stack"]
 	path = submodules/cv-stack
 	url = https://github.com/umigv/cv-stack.git
+	branch = master
 [submodule "submodules/nav-stack"]
 	path = submodules/nav-stack
 	url = https://github.com/umigv/nav_stack.git
-[submodule "submodule/cv-stack"]
-	branch = master
-[submodule "submodule/nav-stack"]
 	branch = main
 [submodule "submodules/embedded-ros-marvin"]
 	path = submodules/embedded-ros-marvin
