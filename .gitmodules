@@ -1,0 +1,22 @@
+[submodule "submodules/cv-stack"]
+	path = submodules/cv-stack
+	url = https://github.com/umigv/cv-stack.git
+[submodule "submodules/nav-stack"]
+	path = submodules/nav-stack
+	url = https://github.com/umigv/nav_stack.git
+[submodule "submodule/cv-stack"]
+	branch = master
+[submodule "submodule/nav-stack"]
+	branch = main
+[submodule "submodules/embedded-ros-marvin"]
+	path = submodules/embedded-ros-marvin
+	url = https://github.com/umigv/embedded_ros_marvin.git
+	branch = main
+[submodule "submodules/nav-infrastructure"]
+	path = submodules/nav-infrastructure
+	url = https://github.com/umigv/nav_infrastructure.git
+	branch = main
+[submodule "submodules/nav-plugins"]
+	path = submodules/nav-plugins
+	url = https://github.com/umigv/nav_plugins.git
+	branch = main
